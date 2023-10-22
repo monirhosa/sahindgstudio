@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thu…/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Bangla", Sony Aath
+#EXTINF:-1 tvg-logo="	https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png" group-title="Bangla", Sony wah
 https://edge4.bioscopelive.com/hls/anonymous/bKNAMbzCXnSmk-6pJ8a4aw/1697953456/live-sony-wah-sd_low/index.m3u8
+
+#EXTINF:-1 tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Bangla", Sony Aath
+https://edge4.bioscopelive.com/hls/anonymous/C2ylRWWylewfBqqSCpTjkA/1697956186/live-sony-aath-sd_hi/index.m3u8
